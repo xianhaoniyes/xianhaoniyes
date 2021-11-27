@@ -1,5 +1,5 @@
 - 👋 Hi, I’m 在教室里啃馒头
-- 👀 I’m interested in sadlly, almost nothing
+- 👀 I’m interested in reading
 - 🌱 I’m currently learning hadoop,spark and flink!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
